@@ -1,12 +1,12 @@
 
-$ color-sky-dark: #022c5d;
-$ color-sky-light: #83c1be;
-$ color-land-dark: #001e2a;
-$ color-land-light: #02456b;
-$ color-water-dark: #005c99;
-$ color-water-light: #c4def3;
-$ color-moon: #fffbde;
-$ color-crater: #e1dcbe;
+$color-sky-dark: #022c5d;
+$color-sky-light: #83c1be;
+$color-land-dark: #001e2a;
+$color-land-light: #02456b;
+$color-water-dark: #005c99;
+$color-water-light: #c4def3;
+$color-moon: #fffbde;
+$color-crater: #e1dcbe;
 
 @mixin dim($width, $height: $width) {
   width: #{$width};
